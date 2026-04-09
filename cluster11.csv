@@ -1,0 +1,4 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"scsig.all.v1.0.symbols","na","Aizarani_Liver_C30_Hepatocytes_4","0.0002002148813717497","3.6985036458504856","445","40","8","18656","PLIN4,GPAM,ALDH1L1,PLIN5,MLXIPL,GPT2,ACACB,ENPP1"
+"scsig.all.v1.0.symbols","na","Hay_Bone_Marrow_Stromal","0.000457144148847601","3.339946834551804","1754","40","14","18656","GYG2,ADIPOQ,SLC19A3,CIDEA,PLIN1,PLIN4,TRARG1,TMEM132C,AQP7,TRHDE,LINC01239,LVRN,ACACB,FABP4"
+"scsig.all.v1.0.symbols","na","Aizarani_Liver_C11_Hepatocytes_1","0.021638440784186","1.664774036690273","298","40","5","18656","ALDH1L1,MLXIPL,GPT2,MGST1,ENPP1"

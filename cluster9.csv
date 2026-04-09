@@ -1,0 +1,7 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"scsig.all.v1.0.symbols","na","Lake_Adult_Kidney_C21_Collecting_Duct_Intercalated_Cells_Type_B","0.0063846095314502435","2.1948656580751043","103","46","4","18656","NEBL,ITGA6,BMPR1B,ADAMTSL3"
+"scsig.all.v1.0.symbols","na","Gao_Large_Intestine_Adult_CJ_Immune_Cells","0.011407143695673373","1.9428230876150947","503","46","7","18656","PTCH1,PTCH2,MAPK10,CLMP,A4GALT,IGFBP6,PDE1A"
+"scsig.all.v1.0.symbols","na","Hay_Bone_Marrow_Stromal","0.012020004220249254","1.9200953798515288","1754","46","13","18656","TENM2,SLC22A3,DAPK2,PTGDS,CYP4X1,MAPK10,FLRT2,CLMP,NR2F1,IGFBP6,ADAMTSL3,PDZRN4,PDE1A"
+"scsig.all.v1.0.symbols","na","Manno_Midbrain_Neurotypes_hDA2","0.013017213087666726","1.8854819858294412","514","46","7","18656","CLDN1,PAK3,BNC2,CYP4X1,LRRC7,PDZRN4,PDE1A"
+"scsig.all.v1.0.symbols","na","Manno_Midbrain_Neurotypes_hDA1","0.02838625103409295","1.5468919608632443","585","46","7","18656","SHISA6,PAK3,BNC2,CYP4X1,LRRC7,PDZRN4,PDE1A"
+"scsig.all.v1.0.symbols","na","Hu_Fetal_Retina_RPE","0.039269445449765863","1.405945231650568","292","46","5","18656","SLC2A1,PTGDS,FLRT2,ITGA6,ADAMTSL3"

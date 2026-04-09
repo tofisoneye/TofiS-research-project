@@ -1,0 +1,4 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"scsig.all.v1.0.symbols","na","Lake_Adult_Kidney_C27_Vascular_Smooth_Muscle_Cells_and_pericytes","1.4980429335017657e-13","12.824475739696824","155","47","12","18656","DGKG,RGS6,HPSE2,NTRK3,PIP5K1B,MYH11,SORBS2,ADGRL3,SYNPO2,AKAP6,RBPMS,RCAN2"
+"scsig.all.v1.0.symbols","na","Gao_Large_Intestine_Adult_CJ_Immune_Cells","0.00020111448260021737","3.696556653983636","503","47","9","18656","LMOD1,COL4A5,ADGRL3,SYNPO2,EDNRA,ITGA7,FAM13C,RBPMS,ITIH5"
+"scsig.all.v1.0.symbols","na","Aizarani_Liver_C33_Stellate_cells_2","0.014811445411093483","1.8294025577224442","126","47","4","18656","MYH11,ITGA7,RBPMS,RCAN2"
